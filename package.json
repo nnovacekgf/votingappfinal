@@ -1,0 +1,17 @@
+{
+  "name": "voting-app",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "xlsx": "^0.18.5",
+    "vue": "^3.2.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.0.0",
+    "vite": "^4.0.0"
+  }
+}
